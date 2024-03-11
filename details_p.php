@@ -1,6 +1,6 @@
 <?php
  include "connection.php";
-
+// lkxfno
 $seller = $_GET['seller'];
 $buyer = $_GET['buyer'];
 $book = $_GET['name'];
